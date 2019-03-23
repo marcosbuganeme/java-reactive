@@ -1,2 +1,2 @@
-# java-reactive
-JAVA Web Flux/Reactive with Spring
+# java
+Spring Web Flux and Reactive MongoDB
